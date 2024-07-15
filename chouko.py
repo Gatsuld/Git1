@@ -1,1 +1,2 @@
-print("I love chpuk, he's so cool !")
+name = input('Quel est votre nom ? ')
+print(f"I love {name}, he's so cool !")
